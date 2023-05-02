@@ -1,0 +1,21 @@
+{
+  "burial": [
+    {
+      "id": 1,
+      "type": "cremiation",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "type": "traditional",
+      "status": "active"
+    }
+    ,
+    {
+      "id": 3,
+      "type": "unknown",
+      "status": "inactive"
+    }
+  ]
+  
+}
